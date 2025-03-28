@@ -1,4 +1,4 @@
-tox = float(input("Enter first number: "))  
+x = float(input("Enter first number: "))  
 y = float(input("Enter second number: "))  
 op = input("Enter operation (+, -, *, /): ")  
 
